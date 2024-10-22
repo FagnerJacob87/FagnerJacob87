@@ -10,7 +10,7 @@ Sou programador desenvolvedor Front End!!!!</h2>
   <img align="center" alt="Fagner-CSS" height="42" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fagner-Python" height="42" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fagner-Csharp" height="42" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="![IMG_E6752](https://github.com/user-attachments/assets/42c5337b-a11d-4a9c-b2eb-f8dee35741e1)" heigh="250" with="200">
+  <img align="center" alt="![IMG_E6752] heigh="250" with="200">
 
 </div>
   
